@@ -21,7 +21,8 @@ Error Handling: Handles invalid inputs gracefully (e.g., non-numeric amounts, in
  
 Add an Expense:
 Choose option 1 from the menu.
-Enter the amount, description, category, and date.
+
+ Enter the amount, description, category, and date.
 
 View All Expenses:
 Choose option 2 from the menu to view all recorded expenses.
