@@ -19,28 +19,28 @@ User-Friendly Interface: A simple text-based menu for easy navigation.
 Error Handling: Handles invalid inputs gracefully (e.g., non-numeric amounts, invalid dates).
 # Usage
  
-1. Add an Expense:
+1.Add an Expense:
 
 Choose option 1 from the menu.
 
 Enter the amount, description, category, and date.
 
-2. View All Expenses:
+2.View All Expenses:
 
 
 Choose option 2 from the menu to view all recorded expenses.
 
-3. View Monthly Summary:
+3.View Monthly Summary:
 
 
 Choose option 3 to see the total expenses for each month.
 
-4. View Category-wise Summary:
+4.View Category-wise Summary:
 
 
 Choose option 4 to see the total expenses for each category.
 
-5. Save and Exit:
+5.Save and Exit:
 
 
 Choose option 5 to save expenses to a file.
